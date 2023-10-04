@@ -6,6 +6,7 @@ public class Driver {
 		// TODO Auto-generated method stub
 		System.out.println("Our team is just getting started....");
 		Glad.glad();
+		Glad.newMethod();
 		Sad.sad();
 		Hungry.hungry();
 	}
